@@ -1,4 +1,4 @@
-- 👋 Olá, Me chamo Gabriel Queiró.
+- 👋 Olá, Me chamo Gabriel Teixeira.
 - 👀 Tenho interesse em Desenvolvimento WEB.
 - 🌱 Atualmente estou Aprendendo HTML, CSS e JavaScript.
 - 💞️ Procuro compartilhar minha trajetória de aprendizado com códigos aqui no GitHub. 
